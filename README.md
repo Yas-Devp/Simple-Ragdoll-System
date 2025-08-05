@@ -1,2 +1,20 @@
-# Simple-Ragdoll-System
-2D Ragdoll Character created using html , css and js , But it doesn't contains self standing feature yet •_•
+# Simple Ragdoll System
+
+A lightweight and customizable 2D ragdoll character system built with HTML, CSS, and JavaScript. This project demonstrates basic physics-based animation in the browser, making it ideal for educational purposes, prototyping, or creative experimentation.
+
+> ⚠️ Note: The character does not yet support a self-standing mechanism.
+
+## Features
+- Fully browser-based 2D ragdoll simulation
+- Easy to integrate and extend
+- I added some comments to make it explain each code part roles
+
+## Future Enhancements
+- Self-standing functionality
+- More realistic joint constraints
+- Integration with user input or game logic
+
+## Demo & Usage
+Explore the ragdoll system in action , just download it and discover how it is simple ^_^ .
+<br />
+<sub>yassine</sub>

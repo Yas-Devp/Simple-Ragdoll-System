@@ -18,6 +18,4 @@ A lightweight and customizable 2D ragdoll character system built with HTML, CSS,
 Explore the ragdoll system in action , just download it and discover how it is simple ^_^ .
 <br />
 
-## Donate me :
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YOUR_HOSTED_BUTTON_ID)
 <sub>by yassine</sub>

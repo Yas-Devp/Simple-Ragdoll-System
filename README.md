@@ -17,4 +17,12 @@ A lightweight and customizable 2D ragdoll character system built with HTML, CSS,
 ## Demo & Usage
 Explore the ragdoll system in action , just download it and discover how it is simple ^_^ .
 <br />
-<sub>yassine</sub>
+
+## Donate me :
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <input type="hidden" name="cmd" value="_donations">
+    <input type="hidden" name="business" value="YOUR_PAYPAL_BUSINESS_ID">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Donate with PayPal">
+  </form>
+<sub>by yassine</sub>

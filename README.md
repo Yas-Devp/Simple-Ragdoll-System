@@ -19,10 +19,5 @@ Explore the ragdoll system in action , just download it and discover how it is s
 <br />
 
 ## Donate me :
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-    <input type="hidden" name="cmd" value="_donations">
-    <input type="hidden" name="business" value="YOUR_PAYPAL_BUSINESS_ID">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Donate with PayPal">
-  </form>
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YOUR_HOSTED_BUTTON_ID)
 <sub>by yassine</sub>
